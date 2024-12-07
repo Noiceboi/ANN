@@ -17,3 +17,8 @@ Bước 3: Sử dụng model Classification để phân loại.
 Sử dụng model CatBoost để phân loại label và tự động gắn nhãn hành động với label tương ứng.
 
 Bước 4: show kết quả.
+
+Báo cáo kết quả:
+- Không hoàn thành được yêu cầu đầu ra: Nhận diện các label tương ứng với 8 hình thức di chuyển.
+- Catboost là mô hình phân loại đạt kết quả tốt nhất đến hiện tại: F1-score = 94
+- Dự kiến hướng phát triển: biết và hiểu các feature để làm cơ sở xác định các dạng label. 
